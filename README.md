@@ -1,3 +1,4 @@
+<link href="style.css" rel="stylesheet">
 <html>
      <head>
           <title>Utkarsh Chhadva | Website Portfolio</title>
