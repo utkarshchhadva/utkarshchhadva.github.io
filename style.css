@@ -1,13 +1,9 @@
 :root {
-  --color-bg: #C38D9E;
-  --color-text-main: #000000;
-  --color-primary: #FFFF00;
-  --wrapper-height: 87vh;
-  --image-max-width: 300px;
-  --image-margin: 3rem;
-  --font-family: "Open Sans";
-  --font-family-header: "Open Sans";
-
+  color-bg: #000000;
+  text-align: center;
+  font-family: "Open Sans";
+  font-family-header: "Open Sans";
+}
 body {
   font-family: "Open Sans";
   font-size: large;
